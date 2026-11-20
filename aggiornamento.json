@@ -1,9 +1,9 @@
 {
-  "version": "1.0.1",
-  "url": "https://github.com/abramoomar97-hash/clyra-aggiornamenti/releases/download/v1.0.1/Clyra.dmg",
-  "sha256": "c59cb953f2e922af2da64ae23f1ae9cb03484099cfa815080d6b1c699bd1866b",
-  "size": 155182819,
-  "notes": "Licenze attive",
+  "version": "1.0.2",
+  "url": "https://github.com/abramoomar97-hash/clyra-aggiornamenti/releases/download/v1.0.2/Clyra.dmg",
+  "sha256": "17d5f1c014bcf73ab332e2aae61f72312b449b5769c04a83f409867744555423",
+  "size": 155183575,
+  "notes": "Licenze attive::da questa versione serve una licenza per usare Clyra\nID del Mac copiabile::clic sull'ID per copiarlo negli appunti",
   "date": "2026-11-20",
-  "sig": "HGldTaddgFk1OWm8_2xPg1Uc_p4RUBieeDQ8UuU7NeVTxUWCnTIrnP3TPttrZEUD83oUkcFT2Sinclc5r1xUVA"
+  "sig": "QvBLKpvCpQzZPqgH5lp_JgUN75jv0YDOM6mf0Cw-f5gz7kmgAh-bmdrLdWY210DPHh1G8CBaj-hS4G1oNccCow"
 }
