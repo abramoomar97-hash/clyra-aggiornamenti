@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/abramoomar97-hash/clyra-aggiornamenti/releases/download/v1.0.0/Clyra.dmg",
-  "sha256": "8618f418aca041d3b6014bf8932917ea23073372c2e071bfac192d26e9744fc0",
-  "size": 155750645,
-  "notes": "Pulizia automatica delle clip::scarta mosse, buio e riprese doppie, taglia i pezzi senza azione\nMontaggio a tempo di musica::tagli sul ritmo della canzone\nInsegna a Clyra::impara dalle tue correzioni\nMatrimoni::preparativi sposa e sposo alternati, cerimonia e due camere a tempo\nAudio DJI e Tascam sotto il parlato::clip lunghe intere con l'audio del registratore, anche negli eventi\nSchermata d'apertura::Nuovo progetto, Montaggio, eventi recenti\nBarra dei menu e scorciatoie\nAggiornamenti automatici",
-  "date": "2026-11-16",
-  "sig": "UWhaj7smWJq-fXDBQz2f4rhQruKrfKUUW1-Ukhr04_rpLTF534apZHNYrdXQjQ632EqaiK_SeOFglTtIcK4yJA"
+  "version": "1.0.1",
+  "url": "https://github.com/abramoomar97-hash/clyra-aggiornamenti/releases/download/v1.0.1/Clyra.dmg",
+  "sha256": "c59cb953f2e922af2da64ae23f1ae9cb03484099cfa815080d6b1c699bd1866b",
+  "size": 155182819,
+  "notes": "Licenze attive",
+  "date": "2026-11-20",
+  "sig": "HGldTaddgFk1OWm8_2xPg1Uc_p4RUBieeDQ8UuU7NeVTxUWCnTIrnP3TPttrZEUD83oUkcFT2Sinclc5r1xUVA"
 }
