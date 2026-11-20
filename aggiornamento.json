@@ -1,9 +1,9 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/abramoomar97-hash/clyra-aggiornamenti/releases/download/v1.0.2/Clyra.dmg",
-  "sha256": "17d5f1c014bcf73ab332e2aae61f72312b449b5769c04a83f409867744555423",
-  "size": 155183575,
-  "notes": "Licenze attive::da questa versione serve una licenza per usare Clyra\nID del Mac copiabile::clic sull'ID per copiarlo negli appunti",
+  "version": "1.0.3",
+  "url": "https://github.com/abramoomar97-hash/clyra-aggiornamenti/releases/download/v1.0.3/Clyra.dmg",
+  "sha256": "f49db4c26d1875cfd7569b8bfe8826ce6707bb35c1b0b62afef0618c8a174882",
+  "size": 155184332,
+  "notes": "Sistemato rallentatore e stabilizzazione su macOS 27::se Apple Vision non risponde, Clyra riconosce le persone dai volti",
   "date": "2026-11-20",
-  "sig": "QvBLKpvCpQzZPqgH5lp_JgUN75jv0YDOM6mf0Cw-f5gz7kmgAh-bmdrLdWY210DPHh1G8CBaj-hS4G1oNccCow"
+  "sig": "4e6ua8HXwni6HP-8YjOyk9md4l_QRUGBonRYZMWuVIjrDaFEvYo7CuUidjYJRGBZYmwIqndnf6OBVLkAZ5khjA"
 }
