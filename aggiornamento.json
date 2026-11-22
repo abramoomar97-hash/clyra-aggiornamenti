@@ -1,9 +1,9 @@
 {
-  "version": "1.0.5",
-  "url": "https://github.com/abramoomar97-hash/clyra-aggiornamenti/releases/download/v1.0.5/Clyra.dmg",
-  "sha256": "cbef6f8c7179296976b24545d47fd454253bdb15abcf9242d24b887d1eaa66d3",
-  "size": 155412848,
-  "notes": "Il permesso Accessibilità non salterà più a ogni aggiornamento::con questa versione va rimesso un'ultima volta, poi resta",
+  "version": "1.0.6",
+  "url": "https://github.com/abramoomar97-hash/clyra-aggiornamenti/releases/download/v1.0.6/Clyra.dmg",
+  "sha256": "ca39aaec1cd38edba522965c087192b00145506e926bc5275bf2b3d9f34473ae",
+  "size": 155747220,
+  "notes": "Nuova sezione Match colori::pareggia esposizione, bianco e magenta delle clip del montaggio (S-Log3 e Rec.709); musica, titoli, LUT e luci colorate restano intatti\nPannellino nella barra dei menu::Montaggio a tempo e Match colori del progetto aperto in Final Cut, senza aprire la finestra",
   "date": "2026-11-22",
-  "sig": "ArAo2ANqnB9zCu5zI8Oy7Q3180xZWVQQ7k1WMn1-XwCOT7kY3ac6xHXBnBExkTuE4G80oFAgcBBf6uDUPXPizw"
+  "sig": "ntPelGXT0q6svPNK-UyidNrYaGbqQKjWpO3iXbW9-OejgPDA9fChzlZBFODDKQi7tJJJdxiXO97fGJtJCsnq_Q"
 }
