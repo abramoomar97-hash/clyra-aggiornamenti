@@ -1,9 +1,9 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/abramoomar97-hash/clyra-aggiornamenti/releases/download/v1.0.3/Clyra.dmg",
-  "sha256": "f49db4c26d1875cfd7569b8bfe8826ce6707bb35c1b0b62afef0618c8a174882",
-  "size": 155184332,
-  "notes": "Sistemato rallentatore e stabilizzazione su macOS 27::se Apple Vision non risponde, Clyra riconosce le persone dai volti",
-  "date": "2026-11-20",
-  "sig": "4e6ua8HXwni6HP-8YjOyk9md4l_QRUGBonRYZMWuVIjrDaFEvYo7CuUidjYJRGBZYmwIqndnf6OBVLkAZ5khjA"
+  "version": "1.0.4",
+  "url": "https://github.com/abramoomar97-hash/clyra-aggiornamenti/releases/download/v1.0.4/Clyra.dmg",
+  "sha256": "8f7f0dd093f1cbfedd5bd79791c4966b7389878f36d1bcc716b8821a85b80134",
+  "size": 155185246,
+  "notes": "Sistemato il riconoscimento delle persone su macOS 27::Apple Vision di nuovo attivo, la prima analisi di un evento già fatto viene rifatta da capo",
+  "date": "2026-11-22",
+  "sig": "Prq54q3Y2suBEtn6sjcIJU1OOkcIhj4QzNKFDvK7usfs1Ej7s5OmBMyd5u0p2BR35XKHmv3MPJl4I1CK-l1hGw"
 }
