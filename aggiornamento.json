@@ -1,9 +1,9 @@
 {
-  "version": "1.0.6",
-  "url": "https://github.com/abramoomar97-hash/clyra-aggiornamenti/releases/download/v1.0.6/Clyra.dmg",
-  "sha256": "ca39aaec1cd38edba522965c087192b00145506e926bc5275bf2b3d9f34473ae",
-  "size": 155747220,
-  "notes": "Nuova sezione Match colori::pareggia esposizione, bianco e magenta delle clip del montaggio (S-Log3 e Rec.709); musica, titoli, LUT e luci colorate restano intatti\nPannellino nella barra dei menu::Montaggio a tempo e Match colori del progetto aperto in Final Cut, senza aprire la finestra",
-  "date": "2026-11-22",
-  "sig": "ntPelGXT0q6svPNK-UyidNrYaGbqQKjWpO3iXbW9-OejgPDA9fChzlZBFODDKQi7tJJJdxiXO97fGJtJCsnq_Q"
+  "version": "1.0.7",
+  "url": "https://github.com/abramoomar97-hash/clyra-aggiornamenti/releases/download/v1.0.7/Clyra.dmg",
+  "sha256": "3cb8c5c0265074370133f1aa53550ec318ebb1bb1ef8ecc0d3a2f2b85cb50f1e",
+  "size": 155755845,
+  "notes": "Match colori per gli eventi::Con una sola camera corregge anche la luce calda della sera e le clip diverse dalle vicine; i LED colorati restano come sono\nImportazione in Final Cut::Clyra apre direttamente il progetto: se Final Cut chiede la libreria, sceglila e conferma\nPannellino e avanzamento::Riconosce il progetto aperto e la barra avanza durante l'analisi",
+  "date": "2026-11-25",
+  "sig": "y7y_uWTqqAUN_bQNdKAQSKhqgu2Pfl0zkrxQyMFg_VY9Uo7OQ6fUlGgnd8BigoQEPBKm4QYcTN4OI7Z21O0t_w"
 }
